@@ -2,6 +2,13 @@
 Change History
 ==============
 
+
+0.3.0 (xxxxxxxxx)
+------------------
+
+- Converted code to use space rather than tabs using Python's reindent.py script
+
+
 0.2.2 (2013-12-17)
 ------------------
 

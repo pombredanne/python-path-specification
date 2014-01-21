@@ -9,6 +9,7 @@
 *.egg-info
 dist
 build
+scripts
 eggs
 parts
 bin
@@ -27,3 +28,6 @@ pip-log.txt
 # Temporary files.
 *~
 *.swp
+/.project
+/.pydevproject
+/.settings
